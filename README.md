@@ -12,7 +12,7 @@ Pour installer le projet, clonez le dépôt et utilisez la commande `make` pour 
 
 Exemple d'utilisation :
 
-./ircserv <port> <password>
+`./ircserv <port> <password>`
 
 ## Fonctionnalités principales
 
