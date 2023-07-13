@@ -53,7 +53,7 @@ Pour interagir avec le serveur ft_irc, vous pouvez utiliser les outils suppléme
 ## Collaborateurs
 
 - [Mbertin44](https://github.com/Mbertin44)
-- [OSS42](https://github.com/OSS42)
+- [OSS-42](https://github.com/OSS-42)
 - [Anasilvr](https://github.com/anasilvr)
 
 N'hésitez pas à nous contacter si vous avez des questions ou des commentaires sur ce projet.
