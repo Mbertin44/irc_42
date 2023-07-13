@@ -48,7 +48,7 @@ Pour interagir avec le serveur ft_irc, vous pouvez utiliser les outils suppléme
 
 ## Collaborateurs
 
-- [Votre nom](https://github.com/votre-nom)
+- [Mbertin44](https://github.com/Mbertin44)
 - [OSS42](https://github.com/OSS42)
 - [Anasilvr](https://github.com/anasilvr)
 
@@ -65,7 +65,3 @@ Pour l'utiliser il faut :
 - Connecter un utilisateur et lui faire rejoindre le channel #test
 - Utiliser la commande !ChuckNorris dans le channel.
 - Dans le cas ou le client est NetCat il faut exécuter la commande : PRIVMSG #test !ChuckNorris
-
----
-
-Ce README est fourni à titre d'exemple et vous pouvez l'adapter en fonction de vos besoins spécifiques pour votre projet ft_irc.
